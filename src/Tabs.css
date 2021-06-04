@@ -1,0 +1,139 @@
+.react-tabs {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .react-tabs__tab-list {
+    border-bottom: 1px solid #aaa;
+    font-size:27px;
+    margin: 10 10 10px;
+    padding:10px;
+font-family: 'Raleway', sans-serif;
+	background-color: rgba(23, 28, 49, 0.732);
+    color:white;
+  }
+  
+  .react-tabs__tab {
+    display: inline-block;
+    border: 1px solid transparent;
+    border-bottom: none;
+    bottom: 0px;
+    position: relative;
+    list-style: none;
+    padding:10px 22px;
+    cursor: pointer;
+    margin-top:0px;
+  }
+  
+  .react-tabs__tab--selected {
+    background:yellow;
+    border-color: #aaa;
+    color: black;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .react-tabs__tab--disabled {
+    color: GrayText;
+    cursor: default;
+  }
+  
+  .react-tabs__tab:focus {
+    box-shadow: 0 0 5px hsl(208, 99%, 50%);
+    border-color: hsl(208, 99%, 50%);
+    outline: none;
+  }
+  
+  .react-tabs__tab:focus:after {
+    content: "";
+    position: absolute;
+    height: 5px;
+    left: -4px;
+    right: -4px;
+    bottom: -5px;
+  }
+  
+  .react-tabs__tab-panel {
+    display: none;
+    
+  }
+  
+  .react-tabs__tab-panel--selected {
+    display: block;
+    scroll-behavior: auto;
+  }
+
+  .card-border {
+    border: solid 5px #FF69B4;
+    width:97%;
+    height:42vh; 
+    max-height:40vh;
+    overflow-y: auto;
+    border-radius: 8;
+    position: relative;
+    display: -webkit-inline-flex;
+    box-shadow: 10px 10px rgb(185, 70, 70); margin-inline-start: 30px;
+    margin-top: 4vh;
+    
+  }
+  
+  .fluid-container{
+    height:1160px;
+  }
+  .project-section{
+    background-color:rgb(245,245,220,0.383);
+    height:980px;
+  }
+  .project-card{
+    padding:15px;
+  }
+  .about-section{
+    background-color:rgb(245,245,220,0.383);
+  }
+  .project-heading{
+	text-align: center;
+	background-color:#829fd9;
+	color:white;
+	padding:0.1rem;
+	margin-top:0%;
+	border-radius: 150px 10px 150px 10px/10px 150px 10px 150px;
+	border: solid 5px rgba(59, 69, 107, 0.007);
+font-family: 'Akaya Telivigala', cursive;
+font-size:40px;
+}
+.img-fluid{
+  height:10px;
+  padding-bottom:10px;
+  padding-top:30px;
+}
+  .project-headings{
+	text-align: center;
+	background-color:#829fd9;
+	color:white;
+	padding:0.08rem;
+	margin-top:0%;
+	border-radius: 120px 8px 120px 8px/8px 120px 8px 120px;
+	border: solid 2px rgba(59, 69, 107, 0.007);
+font-family: 'Akaya Telivigala', cursive;
+font-size:40px;
+}
+.tech-icons{
+text-align: center;
+	background-color:yellow;
+	color:black;
+	padding:0.1rem;
+	margin-top:0%;
+	border-radius: 150px 10px 150px 10px/10px 150px 10px 150px;
+	border: solid 5px rgba(59, 69, 107, 0.007);
+font-family: 'Akaya Telivigala', cursive;
+font-size:40px;
+}
+
+.resume-item{
+  color:white;
+  font-size:25px;
+}
+.education-section{
+    background-color:rgb(245,245,220,0.383);
+  }
+  .rank-section{
+    background-color:rgb(255,140,0,0.383);
+  }

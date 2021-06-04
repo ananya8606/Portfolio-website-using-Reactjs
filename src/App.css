@@ -1,0 +1,85 @@
+.app {
+  text-align: center;
+  height: 100%;
+  min-height: 100%;
+}
+
+.app-header {
+  max-height:27vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.app-link {
+  color: #12061b;
+}
+#font{
+    font-size:30px;
+    color:yellow;
+    padding-bottom:20px;
+  }
+  
+.icons-list {
+font-family: 'Raleway', sans-serif;
+	text-align: center;
+	background-color: rgba(23, 28, 49, 0.842);
+	padding-top:2rem;
+	height:200px;
+	justify-content: center;
+	align-items: center;
+}
+.icons-list .logo2 {
+height:4em;
+  width:4em;
+	margin: 0px 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	cursor: pointer;
+	transition: 0.4s;
+}
+.icons-list .logo {
+  height:4em;
+  width:4em;
+	margin: 0px 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	cursor: pointer;
+	transition: 0.4s;
+}
+.icons-list .f{
+  font-size:40px;
+  color:whitesmoke;
+}
+.h3-text {
+  padding-bottom:5px;
+  margin-bottom: 0px;
+  padding-top:5px;
+	color: #f25ca2;
+}
+.h4-text 
+{
+	text-align: center;
+	background-color:#829fd9;
+	color:white;
+	padding:0.5rem;
+	margin-top:1%;
+	border-radius: 180px 10px 180px 10px/10px 180px 10px 180px;
+	border: solid 5px rgba(59, 69, 107, 0.007);
+font-family: 'Akaya Telivigala', cursive;
+font-size:40px;
+}
+.app-logo {
+  background-size:auto;
+  display: block;
+  border-radius:700px;
+  -webkit-border-radius:700px;
+  -moz-border-radius: 700px;
+  width:14vh;
+ height:14vh;
+ margin-top:3vh;
+ border-style:solid;
+ border-color:whitesmoke;
+}
