@@ -22,8 +22,8 @@ function Github() {
         blockSize={80}
         blockMargin={10}
         theme={colourTheme}
-        fontSize={25
-        }
+        fontSize={25}
+   
       />
       </Row>
   );
