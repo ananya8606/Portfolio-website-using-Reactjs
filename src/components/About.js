@@ -38,6 +38,8 @@ function About() {
             <Row style={{ paddingtop:"10px"}}>
             <Github />
             </Row>
+<Row>
+</Row>
     </Container>
   );
 }
