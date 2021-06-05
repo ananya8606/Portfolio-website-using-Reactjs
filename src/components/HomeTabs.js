@@ -41,7 +41,7 @@ function HomeTabs()
             />
             </Container>
 <Container fluid className="rank-section">
-<h3 className="resume-title" style={{color:"pink"}}>Soft Skills:</h3>
+<h3 className="resume-title" style={{color:"#f25ca2"}}>Soft Skills:</h3>
             <Resumecontent
               title="Languages:"
               content={[
@@ -50,7 +50,7 @@ function HomeTabs()
             />
     </Container>
 <Container fluid className="rank-section">
-<h3 className="resume-title" style={{color:"pink"}}>Positions of Responsibility:</h3>
+<h3 className="resume-title" style={{color:"#f25ca2"}}>Positions of Responsibility:</h3>
             <Resumecontent
               title="Positon|Member:"
               content={[
@@ -61,7 +61,7 @@ function HomeTabs()
     </TabPanel>
 <TabPanel classname="b3">
 <Container fluid className="education-section">
-<h3 className="resume-title" style={{color:"pink"}}>Education</h3>
+<h3 className="resume-title" style={{color:"#f25ca2"}}>Education</h3>
             <Resumecontent
               title="BTECH IN COMPUTER SCIENCE AND ENGINEERING [IIIT Ranchi] "
               date="2018 - Present"
