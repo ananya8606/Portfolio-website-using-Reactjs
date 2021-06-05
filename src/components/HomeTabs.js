@@ -22,7 +22,7 @@ function HomeTabs()
     </TabPanel>
 <TabPanel classname="b2">
 <Container fluid className="rank-section">
-<h3 className="resume-title" style={{color:"pink"}}>Technical skills:</h3>
+<h3 className="resume-title" style={{color:"#f25ca2"}}>Technical skills:</h3>
             <Resumecontent
               title="Strongest Areas"
               content={["Front-end Development ,Good knowledge of core subjects like Operating System, Computer Architecture and Organization, Computer Networks, Database Management System, Data Structure and Algorithms."]}
