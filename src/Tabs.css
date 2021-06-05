@@ -85,6 +85,7 @@ font-family: 'Raleway', sans-serif;
   .project-card{
     padding:15px;
     color:white;
+    font-size:25px;
   }
   .about-section{
     background-color:rgb(245,245,220,0.383);
