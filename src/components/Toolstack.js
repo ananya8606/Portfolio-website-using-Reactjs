@@ -8,9 +8,9 @@ import {
 function Toolstack() {
   return (
       <p className="tech-icons">
-        <SiLinux />
-        <SiVisualstudiocode />
-        <SiJupyter />
+       <span> <SiLinux /></span>
+        <span><SiVisualstudiocode /></span>
+       <span><SiJupyter /></span>
     </p>
   );
 }
