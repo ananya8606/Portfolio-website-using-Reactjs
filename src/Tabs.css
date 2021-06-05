@@ -123,7 +123,7 @@ text-align: center;
 width:100%;
 	background-color:yellow;
 	color:black;
-	padding:2rem;
+	padding:0.1rem;
 	margin-top:0%;
 	border-radius: 60px 10px 60px 10px/10px 60px 10px 60px;
 	border: solid 5px rgba(59, 69, 107, 0.007);
@@ -146,6 +146,7 @@ color:white;
 }
 .about-activity{
 color:white;
+font-size:30px;
 }
 .fond{
 font-size:25px;
