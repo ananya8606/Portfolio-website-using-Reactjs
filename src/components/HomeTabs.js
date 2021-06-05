@@ -3,7 +3,6 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import { Container} from "react-bootstrap";
 import "../Tabs.css";
 import Resumecontent from "./ResumeContent";
-import ExperienceCards from '../components/ExperienceCards';
 import Projects from './Projects'
 import About from './About'
 function HomeTabs() 
