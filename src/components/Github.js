@@ -23,7 +23,6 @@ function Github() {
         blockMargin={10}
         theme={colourTheme}
         fontSize={25}
-        paddingbottom={80}
       />
       </Row>
   );
