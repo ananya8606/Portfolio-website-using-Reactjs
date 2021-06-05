@@ -1,5 +1,4 @@
 import React from "react";
-import { Col, Row } from "react-bootstrap";
 import {
   SiLinux,
   SiVisualstudiocode,
@@ -8,17 +7,11 @@ import {
 
 function Toolstack() {
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
+      <p className="tech-icons">
         <SiLinux />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiJupyter />
-      </Col>
-    </Row>
+    </p>
   );
 }
 
