@@ -146,9 +146,11 @@ color:white;
 }
 .about-activity{
 color:white;
-font-size:30px;
 }
 .fond{
 font-size:25px;
 color:#f25ca2;
+}
+.quote-card-view{
+font-size:25px;
 }
