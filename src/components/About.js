@@ -22,19 +22,11 @@ function About() {
             </h1>
             <Aboutcard />
           </Col>
-          <Col
-            md={5}
-            className="about-img"
-          >
-<Row>
-            <img src={"https://i.ibb.co/K69m3nM/images-1.jpg"} alt="about" className="img-fluid" />
-            </Row>
-  <Row>
+          <Col>
         <h1 className="project-heading">
           <strong className="purple">Tools</strong> I use
         </h1>
         <Toolstack />
-        </Row>
           </Col>
         </Row>
         <Row>
