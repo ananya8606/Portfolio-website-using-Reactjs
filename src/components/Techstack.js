@@ -15,7 +15,6 @@ import {SiFirebase } from "react-icons/si";
 
 function Techstack() {
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "20px" }}>
       <Col xs={3} md={2} className="tech-icons">
         <CgCPlusPlus />
       </Col>
@@ -46,7 +45,6 @@ function Techstack() {
       <Col xs={3} md={2} className="tech-icons">
         <DiCss3 />
       </Col>
-    </Row>
   );
 }
 
