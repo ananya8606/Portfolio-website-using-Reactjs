@@ -6,13 +6,12 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiPython,
   DiGit,
   DiBootstrap,
   DiHtml5,
   DiCss3,
 } from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+import {SiFirebase } from "react-icons/si";
 
 function Techstack() {
   return (
