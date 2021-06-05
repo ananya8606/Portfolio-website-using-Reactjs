@@ -4,8 +4,6 @@ import {
   SiLinux,
   SiVisualstudiocode,
   SiJupyter,
-  SiPostman,
-  SiHeroku,
 } from "react-icons/si";
 
 function Toolstack() {
