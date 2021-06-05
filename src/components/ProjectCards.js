@@ -7,7 +7,7 @@ function ProjectCards(props) {
   return (
     <Card className="project-card-view">
       <Card.Body>
-        <Card.Title>{props.title}</Card.Title>
+        <Card.Title><strong>{props.title}</strong></Card.Title>
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
