@@ -34,7 +34,7 @@ font-family: 'Raleway', sans-serif;
   .react-tabs__tab--disabled {
     color: GrayText;
     cursor: default;
-  }
+  } 
   
   .react-tabs__tab:focus {
     box-shadow: 0 0 5px hsl(208, 99%, 50%);
@@ -84,6 +84,7 @@ font-family: 'Raleway', sans-serif;
   }
   .project-card{
     padding:15px;
+    color:white;
   }
   .about-section{
     background-color:rgb(245,245,220,0.383);
