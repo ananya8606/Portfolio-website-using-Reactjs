@@ -1,9 +1,9 @@
 # Live Demo of Portfolio website using Reactjs:-
 Simple portfolio website built using Html,Css,Javascipt,Material UI and  Bootstrap.
 
-Click on the image given below:-
+Click on the link given below:-
 
-[![](https://i.ibb.co/T1qDFqQ/Screenshot-2021-06-05-16-09-28-354-com-android-chrome.png)](https://youtu.be/DJnjoE7lkRI)
+![](https://i.ibb.co/T1qDFqQ/Screenshot-2021-06-05-16-09-28-354-com-android-chrome.png)
 
 # Getting Started with Create React App
 
